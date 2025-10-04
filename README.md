@@ -1,24 +1,24 @@
 <h1 align="center">🌟 Muhammad Faza Husnan</h1>
 <p align="center">
-  <b>Student | Software Engineering</b>  
+  <b>Student | Backend Developer Enthusiast</b>  
 </p>
 
 <p align="center">
   Hi there! 👋  
-  I’m a student at <b>SMKN 4 Banjarmasin</b>, majoring in <b>Software Engineering</b>.  
-  Passionate about <b>web development</b>, I enjoy creating projects to enhance my skills and solve real-world problems.
+  I’m an alumni of <b>SMKN 4 Banjarmasin</b>, currently studying at <b>Politeknik Negeri Banjarmasin</b>.  
+  I’m passionate about <b>backend development</b> and always eager to learn new technologies to improve my skills and build efficient systems.
 </p>
 
 ---
 
 ## 🛠️ Skills  
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
 </div>
 
 ---
@@ -26,34 +26,36 @@
 ## ✨ About Me  
 <div align="center">
   <blockquote>
-    <i>"I love coding and creating projects to challenge myself and improve my abilities."</i>
+    <i>"I believe in continuous learning — every line of code is a step toward becoming a better developer."</i>
   </blockquote>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+- 🎓 **Education:**  
+  Alumni of **SMKN 4 Banjarmasin**, majoring in Software Engineering.  
+  Currently pursuing a degree at **Politeknik Negeri Banjarmasin**.  
 
-- 🎓 **Currently Studying:**  
-  Software Engineering at **SMKN 4 Banjarmasin**.  
-- 🌱 **Learning Focus:**  
-  Improving my skills in **frontend development** and **backend logic**.  
-- 💡 **Hobbies:**  
-  Exploring new web technologies and experimenting with creative coding techniques.  
+- 💻 **Focus Area:**  
+  Specializing in **backend development**, with growing interest in system architecture and database optimization.  
+
+- 🌱 **Currently Learning:**  
+  Advanced **Laravel**, **RESTful API development**, and **server-side optimization**.  
+
+- 💡 **Mindset:**  
+  Always exploring, experimenting, and improving through real-world projects.  
 
 ---
 
-## 🚀 My Goals  
+## 🚀 Goals  
 <div align="center">
   <ul>
-    <li>✨ Build innovative web applications.</li>
-    <li>🤝 Collaborate on meaningful open-source projects.</li>
-    <li>📚 Expand my knowledge in backend and database management.</li>
+    <li>⚙️ Deepen expertise in backend frameworks and server technologies.</li>
+    <li>🤝 Collaborate on impactful open-source or community projects.</li>
+    <li>📚 Build scalable and efficient web applications that solve real problems.</li>
   </ul>
 </div>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 😊</b>  
+  <b>Thanks for stopping by! Keep learning, keep building. 🚀</b>  
 </p>
