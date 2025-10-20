@@ -6,7 +6,7 @@
 <p align="center">
   Hi there! 👋  
   I'm an alumni of <b>SMKN 4 Banjarmasin</b>, currently studying at <b>Politeknik Negeri Banjarmasin</b>.  
-  Passionate about <b>backend development</b> — I love building efficient, reliable systems and learning new technologies every day.
+  Passionate about <b>backend development</b> — I love exploring how systems work under the hood and improving my coding skills every day.
 </p>
 
 ---
@@ -14,6 +14,7 @@
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -31,25 +32,28 @@
 
 - 🎓 **Education:**  
   Alumni of **SMKN 4 Banjarmasin** (Software Engineering)  
-  Currently pursuing a degree at **Politeknik Negeri Banjarmasin**  
+  Currently studying at **Politeknik Negeri Banjarmasin**
 
 - 💻 **Focus Area:**  
-  Backend Development — specializing in **Laravel**, **RESTful APIs**, and **Database Optimization**
+  Backend Development — building simple, efficient, and reliable systems
 
 - 🌱 **Currently Learning:**  
-  Advanced **Laravel**, **API architecture**, and **server-side performance tuning**
+  - Core **C programming language**  
+  - **System logic**, data structure fundamentals, and algorithm basics  
+  - PHP backend best practices & database optimization  
 
 - 💬 **Interests:**  
-  Exploring system design, backend scalability, and real-world project building
+  Software architecture, backend scalability, automation, and efficient code design
 
 ---
 
 ## 🚀 Goals
 <div align="center">
   <ul>
-    <li>⚙️ Deepen expertise in backend frameworks & server technologies</li>
-    <li>🤝 Collaborate on impactful open-source or community projects</li>
-    <li>📚 Build scalable and efficient web apps that solve real-world problems</li>
+    <li>⚙️ Strengthen my understanding of low-level programming (C)</li>
+    <li>🧠 Build a solid foundation in backend concepts & server-side logic</li>
+    <li>🤝 Collaborate on meaningful open-source projects</li>
+    <li>📚 Create efficient and maintainable applications for real-world use</li>
   </ul>
 </div>
 
