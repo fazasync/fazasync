@@ -62,7 +62,3 @@
 <p align="center">
   <b>Thanks for visiting my profile! Keep learning, keep building. 🚀</b>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazasync&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
